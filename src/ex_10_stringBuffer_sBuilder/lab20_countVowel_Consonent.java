@@ -1,6 +1,4 @@
-package ex10_stringBuffer_sBuilder;
-
-import java.util.Scanner;
+package ex_10_stringBuffer_sBuilder;
 
 public class lab20_countVowel_Consonent {
     public static void main(String[] args) {

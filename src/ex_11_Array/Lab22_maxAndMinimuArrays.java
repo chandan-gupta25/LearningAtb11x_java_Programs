@@ -1,4 +1,4 @@
-package ex_10_Array;
+package ex_11_Array;
 
 public class Lab22_maxAndMinimuArrays {
     public static void main(String[] args) {

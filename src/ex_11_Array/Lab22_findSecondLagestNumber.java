@@ -1,6 +1,4 @@
-package ex_10_Array;
-
-import java.util.Arrays;
+package ex_11_Array;
 
 public class Lab22_findSecondLagestNumber {
     public static void main(String[] args) {

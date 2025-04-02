@@ -1,4 +1,4 @@
-package ex10_stringBuffer_sBuilder;
+package ex_10_stringBuffer_sBuilder;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package ex_10_Array;
+package ex_11_Array;
 
 public class practice {
 
