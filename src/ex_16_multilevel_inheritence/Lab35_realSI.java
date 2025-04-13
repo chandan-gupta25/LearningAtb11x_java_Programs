@@ -1,4 +1,4 @@
-package Multilevel_inheritence;
+package ex_16_multilevel_inheritence;
 
 public class Lab35_realSI {
     public static void main(String[] args) {

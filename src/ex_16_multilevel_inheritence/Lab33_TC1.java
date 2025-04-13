@@ -1,4 +1,4 @@
-package Multilevel_inheritence;
+package ex_16_multilevel_inheritence;
 
 public class Lab33_TC1 extends Lab32_CommonToAll {
 

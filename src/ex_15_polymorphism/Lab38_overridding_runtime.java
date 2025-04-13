@@ -4,8 +4,9 @@ public class Lab38_overridding_runtime {
 
     public static void main(String[] args) {
 
-        dog d1 = new dog();
+         dog d1 = new dog();
         d1.sound();
+
 
 
     }

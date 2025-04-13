@@ -1,4 +1,4 @@
-package Multilevel_inheritence;
+package ex_16_multilevel_inheritence;
 
 public class Lab32_CommonToAll {
 

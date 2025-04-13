@@ -6,10 +6,13 @@ public enum URLs {
     safari ("http/safari.com");
 
     private String Urls;
+
     URLs(String Urls){
+
         this.Urls =Urls;
     }
     String getUrls(){
+
         return this.Urls;
     }
 
