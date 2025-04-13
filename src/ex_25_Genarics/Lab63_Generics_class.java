@@ -9,7 +9,7 @@ public class Lab63_Generics_class {
     }
 }  // this is a generics class
 class GenericClass <T>{       // if we pass integer then T become Integer
-    private T data;    // T is a place holder it can be any data type
+    private T data;    // T is a placeholder it can be any data type
 
     public GenericClass(T data) {
         this.data = data;
